@@ -1,5 +1,6 @@
 # Heart Disease Analysis Dashboard — Excel
 
+![Dashboard Preview](Dashboard%20Preview.png)
 ## Project Overview
 
 This project analyses the UCI Heart Disease dataset to identify patterns associated with heart disease across demographic and clinical factors.
